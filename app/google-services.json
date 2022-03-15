@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435073926509",
+    "project_id": "realtimebdfirebaseapp",
+    "storage_bucket": "realtimebdfirebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435073926509:android:ff28e46d5922a4219fc664",
+        "android_client_info": {
+          "package_name": "com.example.realtimedbfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435073926509-6dmhtquirdfuhbnuqeo56meh08id8lec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq6cJT_zZB6lKVigLSl4soM5d13FlA7D0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435073926509-6dmhtquirdfuhbnuqeo56meh08id8lec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
